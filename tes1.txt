@@ -1,5 +1,5 @@
 CARA MEMBUAT WEBSITE
 -rencana pemubuatan
 -coding
--pelaksanaan
+-mengahafal code
 -pengecekan
